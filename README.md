@@ -5,5 +5,6 @@ Aim - Create a simple DAG based workflow system in Python that allows dynamic DA
 
 In Progress. Will add a License later.
 
-Resources-
-https://pyro4.readthedocs.io/en/stable/
+Resources-  
+https://pyro4.readthedocs.io/en/stable/  
+https://jug.readthedocs.io/en/latest/
